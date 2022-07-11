@@ -1,0 +1,70 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
+}
+section{
+    display:flex;
+    width:100%;
+    margin-bottom: 100px;
+}
+img{
+    width:80%
+}
+.all_container{
+    margin-left: 100px;
+    margin-top: 150px;
+    width: 50%;
+}
+h1{
+    font-size: 40px;
+}
+span{
+    color:orange
+}
+a{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    font-weight: 700;
+    padding:10px 10px;
+    border-radius: 5px;
+}
+#images{
+    width:50%;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.and_on{
+    width:80%
+}
+.second_section{
+    background-image: url(images/shapes/7.png);
+}
+.recipies{
+    text-align: center;
+    
+}
+h2{
+    font-size: 40px;
+}
+.food{
+    width:40%;
+    margin-left: 10%;
+   border-radius: 10px;
+   box-shadow: 6px 6px 30px; 
+   
+}
+.food_1{
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.lorem{
+    text-align: justify;
+    margin-left:50px ;
+    margin-right: 50px;
+}
