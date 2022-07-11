@@ -75,3 +75,29 @@ h3{
 .one_head{
     margin-right: 10%;
 }
+.followers{
+    display: flex;
+    margin-left: 150px;
+    box-shadow: 5px 5px 30px;
+    width:80%;
+    margin-bottom: 70px;
+}
+.three_ways{
+    padding:20px;
+    text-align: center;
+    margin: auto;
+}
+h5{
+    font-weight: 400;
+}
+h3{
+    font-weight: 800;
+    font-size: 40px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color:white;
+    padding-bottom: 30px;
+    padding-top:15px
+}
