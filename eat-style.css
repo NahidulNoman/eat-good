@@ -68,3 +68,10 @@ h3{
     margin-left:50px ;
     margin-right: 50px;
 }
+.main_container{
+    display:flex;
+    margin-bottom: 100px;
+}
+.one_head{
+    margin-right: 10%;
+}
